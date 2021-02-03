@@ -1,0 +1,8 @@
+Resources:
+Ubuntu 20.04 VM as Ansible master
+Lubuntu 18.04 as Ansible host/client machine
+Tools:
+Ansible
+Docker
+Jenkins
+Kubernetes
